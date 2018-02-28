@@ -1,0 +1,97 @@
+
+body {
+  background-color: #FFFFFF;
+  background-image: url("https://ih1.redbubble.net/image.168945587.7712/flat,800x800,075,t.u1.jpg");
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  color: #393939;
+  font-size: 14px;
+  line-height: 1.5;
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+}
+
+h1 {
+color: #2B2B2B;
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 26px;
+line-height: 2;
+}
+
+h2 {
+color: #2B2B2B;
+font-family: 'Lato', sans-serif;
+font-weight: 150;
+font-size: 24px;
+}
+
+h3 {
+color: #2B2B2B;
+font-family: 'Lato', sans-serif;
+font-weight: 150;
+font-size: 19px;
+}
+
+h4 {
+color: #2B2B2B;
+font-family: 'Lato', sans-serif;
+font-weight: 150;
+font-size: 16px;
+}
+
+p {
+color: #2B2B2B;
+font-family: 'Lato', sans-serif;
+font-weight: 100;
+font-size: 13px;
+line-height: 1.5;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C52617;
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+
+}
+
+
+.card {
+  text-align: center;
+  background-color: #FC1BA8;
+  padding: 10px 25px;
+  margin: 10px 0px;
+}
+
+.list-inline > li {
+display: inline-block;
+padding: 10px 25px;
+
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.imageround {
+  border-radius:100%;
+}
+/*.show-image {
+  background-image: Profile url('');
+}
+
+.show-image:hover {
+  background-image:  url('');
+}
+*/
